@@ -1,7 +1,6 @@
 git init
 
 git add .
-git reset HEAD ipch/
 
 git status
 
