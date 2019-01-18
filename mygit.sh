@@ -1,6 +1,7 @@
 git init
 
-git add *.* */
+git add .
+git rm --cache ipch/
 
 git status
 
